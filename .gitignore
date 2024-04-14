@@ -131,8 +131,6 @@ dmypy.json
 # Mac files
 *.DS_Store
 
-# Custom
-keys.cfg
 
 # iPython Notebooks
 *.ipynb
@@ -189,3 +187,8 @@ website/frontend/build
 trajectories/*
 
 .vscode/**
+
+# Custom
+keys.cfg
+.local
+
